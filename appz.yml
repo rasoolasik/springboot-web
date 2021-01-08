@@ -1,7 +1,7 @@
 app:
   code: SBW
   name: Spring Boot Web
-  notify: appzdev@cloudbourne.co
+  notify: arasool@ecloudcontrol.com
   
 build:
   build_file: pom.xml
